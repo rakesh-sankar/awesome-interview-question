@@ -1,2 +1,4 @@
-# awesome-interview-question
-A curated list of interview questions on various domain
+# Awesome Interview Question
+A curated list of interview questions of various domain.
+
+*IN PROGRESS*
